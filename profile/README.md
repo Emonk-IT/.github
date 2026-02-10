@@ -18,7 +18,7 @@ At our IT team, we provide support across all areas of the organization. We cont
 - [EmonkBrain - Seller](https://github.com/Emonk-IT/shrpa_seller)
 - [EmonkBrain - Swift](https://github.com/Emonk-IT/shrpa_swift)
 - [EmonkBrain - Logistic](https://github.com/Emonk-IT/shrpa_logistic)
-- [EmonkBrain - Adm] (https://github.com/Emonk-IT/shrpa_adm): DEPRECADO. 
+- [EmonkBrain - Adm](https://github.com/Emonk-IT/shrpa_adm): DEPRECADO. 
 
 - [EmonkBrain - API](https://github.com/Emonk-IT/sherpa-api)
 
