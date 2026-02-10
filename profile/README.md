@@ -14,17 +14,18 @@ At our IT team, we provide support across all areas of the organization. We cont
 
 ## Repositorios Destacados
 
-- [EmonkBrain - Quote](https://github.com/Emonk-IT/shrpa_quotes): Breve descripción del repositorio.
-- [EmonkBrain - Seller](https://github.com/Emonk-IT/shrpa_seller): Breve descripción del repositorio.
-- [EmonkBrain - Swift](https://github.com/Emonk-IT/shrpa_swift): Breve descripción del repositorio.
-- [EmonkBrain - Logistic](https://github.com/Emonk-IT/shrpa_logistic): Breve descripción del repositorio.
-- [EmonkBrain - Adm](https://github.com/Emonk-IT/shrpa_adm): Breve descripción del repositorio.
+- [EmonkBrain - Quote](https://github.com/Emonk-IT/shrpa_quotes)
+- [EmonkBrain - Seller](https://github.com/Emonk-IT/shrpa_seller)
+- [EmonkBrain - Swift](https://github.com/Emonk-IT/shrpa_swift)
+- [EmonkBrain - Logistic](https://github.com/Emonk-IT/shrpa_logistic)
+- [EmonkBrain - Adm] (https://github.com/Emonk-IT/shrpa_adm): DEPRECADO. 
 
-- [EmonkBrain - API](https://github.com/Emonk-IT/sherpa-api): Breve descripción del repositorio.
+- [EmonkBrain - API](https://github.com/Emonk-IT/sherpa-api)
 
-- [Emonk - Middleware](https://github.com/Emonk-IT/e-middleware): Breve descripción del repositorio.
+- [Emonk - Middleware](https://github.com/Emonk-IT/e-middleware)
+- [Emonk - Uber API](https://github.com/Emonk-IT/uber-api)
 
-- [Emonk - Develop Tools](https://github.com/Emonk-IT/develop-tools): Breve descripción del repositorio.
+- [Emonk - Develop Tools](https://github.com/Emonk-IT/develop-tools)
 
 ## Redes Sociales
 
